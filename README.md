@@ -5,3 +5,9 @@ cd playground-hugo
 hugo new theme playground
 hugo server --buildDrafts
 ```
+
+### Build
+```shell
+hugo build
+npx serve public
+```
